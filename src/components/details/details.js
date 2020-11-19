@@ -50,7 +50,7 @@ const Details = (props) => {
           <Col sm={6}>
             <Card className="w-100">
               <Card.Body>
-                <Card.Title>Add ToDo</Card.Title>
+                <Card.Title>Edit Employee</Card.Title>
                 <Form >
                 <Form.Group controlId="name">
                     <Form.Label>Name</Form.Label>
